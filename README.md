@@ -27,7 +27,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://stats-preview-card-component-rust.vercel.app/))
 
 ## My process
 
